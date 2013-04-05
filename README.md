@@ -11,3 +11,9 @@ separate folders.
 To get this working, just do `compass watch` on the root folder, then add the
 `htdocs` folder to Hammer for it to build from.
 
+## Requirements
+
+You need to have installed SASS, Compass and Zurb Foundation (see the Zurb
+documentation for details).
+
+You'll also need a copy of Hammer for Mac, obviously.
